@@ -19,7 +19,8 @@ This project is my portfolio personal portfolio website created for the PLP Hack
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
-DO NOT USE MY EMAIL API.
+
+> **Important:** Please do not use my Email API credentials.
 
 ## License
 

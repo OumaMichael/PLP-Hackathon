@@ -2,7 +2,9 @@
 
 ## About this Project
 
-This project is my portfolio personal portfolio website created for the PLP Hackathon. It showcases my skills, recent projects, and achievements. The portfolio has been updated with new content and bug fixes to provide a better user experience.
+This project is my personal portfolio website created for the PLP Hackathon. It showcases my skills, recent projects, and achievements. The portfolio has been updated with new content and bug fixes to provide a better user experience.
+
+**Live Demo:** [https://plphackath0n.netlify.app/](https://plphackath0n.netlify.app/)
 
 ## Features
 

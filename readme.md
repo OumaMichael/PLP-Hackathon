@@ -4,7 +4,11 @@
 
 This project is my personal portfolio website created for the PLP Hackathon. It showcases my skills, recent projects, and achievements. The portfolio has been updated with new content and bug fixes to provide a better user experience.
 
-**Live Demo:** [https://plphackath0n.netlify.app/](https://plphackath0n.netlify.app/)
+**Live Demo:**  
+<a href="https://plphackath0n.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Site-Live-blue?style=for-the-badge" alt="Live Demo Badge"/>
+</a>
+
 
 ## Features
 
